@@ -1,0 +1,27 @@
+{
+    "identifier": "com.brandonmccandlish.makeTitleCase",
+    "name": "Make Title Case",
+    "organization": "Brandon McCandlish",
+    "description": "Format the selected text in Title Case",
+    "version": "1.0",
+    "categories": ["commands"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "*"
+    ],
+    
+    "entitlements": {
+        
+    },
+    
+    "commands": {
+        "editor": [
+            {
+                "title": "Make Title Case",
+                "command": "makeTitleCase.makeTitleCase"
+            }
+        ]
+    }
+}
