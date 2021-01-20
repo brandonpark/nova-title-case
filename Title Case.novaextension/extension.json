@@ -5,7 +5,7 @@
     "description": "Format the selected text in Title Case",
     "version": "1.0",
     "categories": ["commands"],
-    "bugs":"mailto:bmccandlish@sachse.net",
+    "bugs":"https://github.com/brandonpark/nova-title-case/issues",
     "repository":"https://github.com/brandonpark/nova-title-case",
     
     "main": "main.js",
